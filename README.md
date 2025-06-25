@@ -4,7 +4,7 @@ A computer vision-based virtual mouse system built with Python that allows users
 
 ## 🚀 Demo
 
-![Demo GIF][(link-to-my-demo.gif)](https://drive.google.com/file/d/1uEJ1q1Demsetf0OBAUvx74XNE2DG7f1q/view?usp=sharing)
+![Demo video][(link-to-my-demo-video)](https://drive.google.com/file/d/1uEJ1q1Demsetf0OBAUvx74XNE2DG7f1q/view?usp=sharing)
 
 ## 📌 Features
 
